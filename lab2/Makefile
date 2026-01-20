@@ -52,10 +52,10 @@ debug: clean $(TARGET)
 
 help:
 	@echo "Available targets:"
-	@echo "  make all        - Compile the entire system"
-	@echo "  make run        - Compile and run the system"
+	@echo "  make all             - Compile the entire system"
+	@echo "  make run             - Compile and run the system"
 	@echo "  make compile_library - Create static library"
-	@echo "  make clean      - Remove build artifacts"
-	@echo "  make info       - Display module information"
-	@echo "  make help       - Show this help message"
+	@echo "  make clean           - Remove build artifacts"
+	@echo "  make info            - Display module information"
+	@echo "  make help            - Show this help message"
 

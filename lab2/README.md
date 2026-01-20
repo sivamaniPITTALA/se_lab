@@ -109,11 +109,12 @@ lab2/
 
 ## Submission
 
-- GitHub repository: [To be added]
+- GitHub repository: "https://github.com/sivamaniPITTALA/se_lab.git"
 - Submission Date: January 22, 2026
 
 ## Author
 
+Pittala Sivamani (25mcmt39)
 Student Developer
 M.Tech (CS, AI) 2025-26
 School of Computer and Information Sciences
